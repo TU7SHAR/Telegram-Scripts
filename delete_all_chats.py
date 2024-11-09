@@ -1,6 +1,7 @@
 from telethon import TelegramClient, sync
 from telethon.tl.functions.messages import DeleteHistoryRequest
 
+# u can get api hash and api id from here https://my.telegram.org/apps
 api_id = 'Your API ID'
 api_hash = 'Your API Hash'
 phone = '+919876543210' #ur number here with country code
